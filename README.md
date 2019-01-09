@@ -7,3 +7,5 @@ Test Description about this repository
 # This is amazing!
 
 ### I'm gonna slip tricky changes here!
+
+https://ourcodingclub.github.io/2017/02/27/git.html
